@@ -1,4 +1,4 @@
-# Calvin_association_mini
+# Association_mini
 A short project demonstrating Association Rules
 
 ## Association Rules on Simulated Shopping Data
